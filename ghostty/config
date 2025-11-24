@@ -1,11 +1,16 @@
 theme = TokyoNight
-font-size = 16
+font-size = 14
 font-family = "FiraCode Nerd Font"
-background-blur-radius = 20
+background-blur = true
 mouse-hide-while-typing = true
 window-decoration = true
 macos-option-as-alt = true
-background-opacity = 0.9
+background-opacity = 0.95
 cursor-style = block
 cursor-style-blink = true
 shell-integration-features = no-cursor
+
+window-height = 35
+window-width = 120
+window-position-x = 0
+window-position-y = 0
