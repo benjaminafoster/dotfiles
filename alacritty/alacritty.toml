@@ -1,7 +1,7 @@
 [general]
 live_config_reload = true
 import = [
-  "/Users/benf/dotfiles/alacritty/themes/themes/gruvbox_dark.toml"
+  "/Users/benf/dotfiles/alacritty/themes/themes/catppuccin_frappe.toml"
 ]
 
 # FONT
@@ -14,3 +14,4 @@ size = 16.0
 
 [window]
 opacity = 0.95
+padding = { x = 10, y = 10}
