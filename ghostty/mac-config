@@ -14,3 +14,4 @@ window-height = 35
 window-width = 120
 window-position-x = 0
 window-position-y = 0
+window-padding-x = 5
